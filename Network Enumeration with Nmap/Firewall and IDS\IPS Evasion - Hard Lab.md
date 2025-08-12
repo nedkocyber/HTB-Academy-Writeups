@@ -13,7 +13,9 @@ Now we can try connectiong to that port with netcat and obtain the flag
 <img width="597" height="132" alt="image" src="https://github.com/user-attachments/assets/4c0f074e-8d5e-431d-99e9-b437d85a30ab" />
 
  Attempts to connect to port 50000 on 10.129.2.47.
+ 
  Uses port 53 as the outbound port → This can bypass firewalls because DNS traffic (port 53) is often allowed through firewalls.
+ 
  Displays detailed connection information.
 
  # Conclusion
