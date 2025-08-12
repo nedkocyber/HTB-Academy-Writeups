@@ -1,1 +1,6 @@
 # Footprinting Lab - Hard
+
+Important is to do a full port scan on every target to see everything possible ( i know i didint show it past labs but its important trust me :D)
+
+nmap -p- -T5 10.129.202.20 -Pn  whith this command we find all the ports that are running
+
