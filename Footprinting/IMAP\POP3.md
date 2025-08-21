@@ -1,4 +1,4 @@
-# IMAP/POP
+# IMAP/POP3
 
 IMAP (Internet Message Access Protocol)
 
