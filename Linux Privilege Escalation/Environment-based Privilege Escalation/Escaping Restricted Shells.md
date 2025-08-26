@@ -15,5 +15,3 @@ do echo $line; done → prints each line to the terminal as it’s read.
 < flag.txt → redirects the contents of flag.txt into the while loop.
 
 <img width="792" height="52" alt="image" src="https://github.com/user-attachments/assets/988189dc-b010-4b83-9bb6-672b1d5bf82f" />
-
-<img width="542" height="36" alt="image" src="https://github.com/user-attachments/assets/2bc6a6cd-df32-4d69-8182-e88b5c3f8cb3" />
